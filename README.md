@@ -38,9 +38,9 @@
 
 ## How to run the Project:
 
-- Click The Link to start the app at http://192.168.0.3:5555.
+- Click The Link to start the app at https://61a23c34d7a109034ad835a5--epic-kilby-069133.netlify.app/.
 
-- Click  The deployement Link https://shivamkakda.github.io/DesertCart/ you will reach on home page and creat account or signup if you are a new user or signin through your credentials (if doesn't work, please disable ad blocker or try out in incognito mode).
+- Click  The deployement Link https://61a23c34d7a109034ad835a5--epic-kilby-069133.netlify.app/ you will reach on home page and creat account or signup if you are a new user or signin through your credentials (if doesn't work, please disable ad blocker or try out in incognito mode).
 - In our website users can buy any catagaries of products, users can add them to cart and can done further payment process.
 
 
