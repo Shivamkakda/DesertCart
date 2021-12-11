@@ -321,12 +321,11 @@
     font-size: 12px;
     display: block;
     text-align: left;
-
+    width: fit-content;
   }
   
   .dropdown-content a:hover {
-    color:rgb(5, 5, 66);
-    background-color:#81c3e1 ;
+    color: #81c3e1;
   }
   .modal {
     display: none; 
