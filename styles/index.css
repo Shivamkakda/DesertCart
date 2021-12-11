@@ -321,7 +321,6 @@
     font-size: 12px;
     display: block;
     text-align: left;
-    width: fit-content;
   }
   
   .dropdown-content a:hover {
