@@ -219,6 +219,18 @@
     #productCont>div > div {
         width: 200px;
     }
+    .column {
+        float: left;
+      width: 25%;
+      padding: 10px;
+      margin-left: 1rem;
+      }
+    
+      .column h5 {
+        margin-right: 1rem;
+        margin-bottom: 0.5rem;
+        margin-top: 0.5rem;
+      }
 }
 @media (min-width:575px) and (max-width: 950px) {
     #header2_1{
@@ -253,3 +265,101 @@
         width: 215px;
     }
 }
+.dropdown {
+      
+    float: left;
+    overflow: hidden;
+    
+  }
+  
+  .dropdown .dropbtn {
+      
+    font-size: 12px;  
+    border: none;
+    outline: none;
+    color: black;
+    padding: 8px 5px;
+    background-color: inherit;
+    font: inherit;
+    margin: 0;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 10px;
+    border-radius: 5%;
+  }
+  
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    color: #81c3e1;
+  }
+  
+  .dropdown-content {
+   
+    display: none;
+    position: fixed;
+    background-color: white;
+    overflow: hidden;
+    width: 20%;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    border-radius: 2%;
+  }
+  
+  .dropdown-content .header {
+    background: red;
+    color: white;
+    
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 12px;
+    display: block;
+    text-align: left;
+
+  }
+  
+  .dropdown-content a:hover {
+    color:rgb(5, 5, 66);
+    background-color:#81c3e1 ;
+  }
+  .modal {
+    display: none; 
+    position: fixed; 
+    padding-top: 60px; 
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%; 
+    overflow: auto; 
+   font-size: 14px;
+  }
+  
+  /* Modal Content */
+  .modal-content {
+    background-color: #fefefe;
+    width: 100%;
+  }
+  
+  /* The Close Button */
+  .close {
+    color: #aaaaaa;
+    float: right;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .boy{
+  display : inline-block;
+  margin : 20px;
+  margin-left: 50px;
+  }
