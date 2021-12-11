@@ -38,9 +38,9 @@
 
 ## How to run the Project:
 
-- Click The Link to start the app at https://61b495402d6bccce0e095bb2--admiring-brown-27c4a6.netlify.app/.
+- Click The Link to start the app at https://61b495e76b79800007c5dcf7--desertcart.netlify.app/.
 
-- Click  The deployement https://61b495402d6bccce0e095bb2--admiring-brown-27c4a6.netlify.app/ you will reach on home page and creat account or signup if you are a new user or signin through your credentials (if doesn't work, please disable ad blocker or try out in incognito mode).
+- Click  The deployement https://61b495e76b79800007c5dcf7--desertcart.netlify.app/ you will reach on home page and creat account or signup if you are a new user or signin through your credentials (if doesn't work, please disable ad blocker or try out in incognito mode).
 - In our website users can buy any catagaries of products, users can add them to cart and can done further payment process.
 
 
